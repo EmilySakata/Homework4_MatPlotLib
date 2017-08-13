@@ -5,5 +5,5 @@ Homework selection: Pyber programming challenge
 Included in this repo : 
   - Jupyter Notebook file
   - plot exported : readme_extract.md
-  - Observable trends: ObservableTrend/md
+  - Observable trends: ObservableTrend.md
   
