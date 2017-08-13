@@ -1,0 +1,15 @@
+Here are several of observable trend identified for the Pyber programming challenge. 
+
+Pyber Ride sharing data (2016): Bubble plot that shows average fare, total number of rides per city type with driver count being the size of the bubble.
+The bubble plot shows the following:
+ - Number of drivers in urban city type tends to be larger than in those in Rural city type
+ - Total number of rides are higher in urban cities than those of Rural city type
+ - Rural city type tends to charge higher fare for each ride than those of urban city type
+ - Suburban city type tends to be in the middle between Urban and Rural city tpe in terms of number of total rides, number of drivers, and the fare they charge for each ride.
+ 
+ 
+ Pie charts plotted: 1) % of total fares by city type, 2) % of total rides by city type, 3) % of total drivers by city type
+ - pie charts agrees with the bubble chart assumption that since both number of rides, number of drivers are higher than those of other city types, the total fare by city type has the highest percentage. 
+ 
+ 
+ Extra bar chart to validate the assumptions.
